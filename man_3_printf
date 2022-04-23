@@ -69,6 +69,13 @@ _printf("%d, %i\n", 2, 5);
 .I printf(1), printf(3).
 
 .SH BUGS
+<<<<<<< HEAD
+=======
+No known bugs
+.SS colphon
+.br
+This page was created in collaboration with Oni John \ Adewuni Samuel student of software Engineering at ALX Holberton school
+>>>>>>> b5c9d5ec8d084a8f2570f24dfd122b04fe876083
 
 No known bugs.
 
